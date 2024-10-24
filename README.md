@@ -1,4 +1,4 @@
-### Date:
+### Date: 12.09.2024
 # Ex-6: Pseudorandom Number Generation
 ## AIM:
 To demonstrate the generation of pseudorandom numbers within a specified range using the C standard library functions.
